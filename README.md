@@ -1,4 +1,5 @@
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/751f5e1b-793e-4760-a1bd-ce682ae2b662" />
+<img width="960" height="600" alt="Screenshot 2026-04-29 190841" src="https://github.com/user-attachments/assets/2993071c-8c30-487d-a0d5-993446babae1" />
+<img width="6000" height="3375" alt="HiNan" src="https://github.com/user-attachments/assets/efd7c351-b562-4b87-9e95-9283f7970231" />
 
 # Windows Cleanup Script
 
