@@ -1,4 +1,4 @@
-<img width="221" height="163" alt="{E78F04E3-B7C4-41B2-8FC8-3603D04EE660}" src="https://github.com/user-attachments/assets/40bb4476-a7c7-4637-b267-e440fa4446e2" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/751f5e1b-793e-4760-a1bd-ce682ae2b662" />
 
 # Windows Cleanup Script
 
