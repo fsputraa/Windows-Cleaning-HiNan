@@ -1,10 +1,10 @@
 Download New Version
-<img width="466" height="437" alt="Screenshot 2026-11-05 124900" src="https://github.com/user-attachments/assets/ad2cd48d-7d27-40e0-987f-4a1e1b8a131e" />
+<img width="960" height="600" alt="Screenshot 2026-11-05 124900" src="https://github.com/user-attachments/assets/ad2cd48d-7d27-40e0-987f-4a1e1b8a131e" />
 
 Old Version
 <img width="960" height="600" alt="Screenshot 2026-04-29 190841" src="https://github.com/user-attachments/assets/2993071c-8c30-487d-a0d5-993446babae1" />
 
-Tutorial Downlaod (Beginner)
+Tutorial Download (Beginner)
 <img width="6000" height="3375" alt="HiNan" src="https://github.com/user-attachments/assets/efd7c351-b562-4b87-9e95-9283f7970231" />
 
 # Windows Cleanup Script
