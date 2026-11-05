@@ -1,4 +1,4 @@
-Download New Version
+Download New Version (Simply "open" it; no "administrator permission" is required)
 <img width="960" height="600" alt="Screenshot 2026-11-05 124900" src="https://github.com/user-attachments/assets/ad2cd48d-7d27-40e0-987f-4a1e1b8a131e" />
 
 Old Version
