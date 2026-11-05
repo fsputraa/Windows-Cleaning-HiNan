@@ -1,7 +1,7 @@
 @echo off
 chcp 65001 >nul
 setlocal EnableExtensions EnableDelayedExpansion
-
+ 
 :: =====================================================
 ::  HiNan TOOLS - Windows Cleaner  v3.0
 ::  by Fernando
